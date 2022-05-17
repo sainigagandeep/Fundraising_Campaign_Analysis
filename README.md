@@ -5,21 +5,10 @@ Louise’s want to launch a fundraising campaign and for that she want to know  
 ## Analysis and Challenges
 To analyize the data, firstly, I cleaned the data by using various Excel fuctions. For example, I converted the date into correct and readable formate. Then, I color coded the outcomes and percentage funded. I used pivot table and vlookup function to create more crisp and useful data tables and then created the charts to have clear view of the trends. 
 ### Analysis of Outcomes Based on Launch Date
-![Outcomes Based on Launch Date]( C:\Users\thevm\OneDrive\Desktop\Gagan\resources\Outcomes_vs_Goals.png)
-
-
-
-
-
+![Outcomes Based on Launch Date](Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
-
-
- 
-
-
-
-
-### Challenges and Difficulties Encountered
+![Outcomes Based on Goals]( Outcomes_vs_Goals.png)
+ ### Challenges and Difficulties Encountered
 Its very difficult to understand that much data in the starting. But, I follow the steps one by one as explained in the module, and I am able to clean and make it readable. Another challenge I faced is that It took a lot of time as I am new to this. However, after classes and doing this challenge, I learned a lot and now i can create Pivot table, use filters in effective ways and do vlookup. 
 ## Results
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
