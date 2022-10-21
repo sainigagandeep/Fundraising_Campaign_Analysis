@@ -15,7 +15,7 @@ Its very difficult to understand that much data in the starting. But, I follow t
 1- The most number of successful events launched in the month of May,June and July. Therefor,these months are ideal for launching a event.
 2- Decemeber is the worst month to launch a event because the probability of success is least in this month. 
 ### What can you conclude about the Outcomes based on Goals?
-1-The probability of success decreases as Goal amount increases and vica-versa. The Goal amount should be less $15000 to have the probability of success more than the failed.
+1-The probability of success decreases as Goal amount increases and vica-versa. The Goal amount should be less than $15000 to have the probability of success more than the failed.
 ### What are some limitations of this dataset?
 The data have not sufficent infomation about the common attributes of a successful and failed campaign. 
 ### What are some other possible tables and/or graphs that we could create?
