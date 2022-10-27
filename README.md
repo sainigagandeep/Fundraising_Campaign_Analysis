@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# fundraising campaign Analysis
 Performing analysis on kickstart data to cover the trend
 ## Overview of Project and Purpose
 Louise’s want to launch a fundraising campaign and for that she want to know  how different campaigns performed in relation to their launch dates and their funding goals. We have the Kickstarter dataset which has data of different campaingns. I used this data to visualize campaign outcomes based on their launch dates and their funding goals. 
