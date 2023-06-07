@@ -1,7 +1,7 @@
 # fundraising campaign Analysis
-Performing analysis on past fundraising campaigns data to cover the trend
+Performing analysis on past fundraising campaigns data to uncover the trend
 ## Overview of Project and Purpose
-Louise’s want to launch a fundraising campaign and for that she want to know  how different campaigns performed in relation to their launch dates and their funding goals. We have the Kickstarter dataset which has data of different campaingns. I used this data to visualize campaign outcomes based on their launch dates and their funding goals. 
+Louise’s want to launch a fundraising campaign and for that she want to know  how different campaigns performed in relation to their launch dates and their funding goals. We have a dataset which has data of different campaingns. I used this data to visualize campaign outcomes based on their launch dates and their funding goals. 
 ## Analysis and Challenges
 To analyize the data, firstly, I cleaned the data by using various Excel fuctions. For example, I converted the date into correct and readable formate. Then, I color coded the outcomes and percentage funded. I used pivot table and vlookup function to create more crisp and useful data tables and then created the charts to have clear view of the trends. 
 ### Analysis of Outcomes Based on Launch Date
@@ -9,7 +9,7 @@ To analyize the data, firstly, I cleaned the data by using various Excel fuction
 ### Analysis of Outcomes Based on Goals
 ![Outcomes Based on Goals]( Outcomes_vs_Goals.png)
  ### Challenges and Difficulties Encountered
-Its very difficult to understand that much data in the starting. But, I follow the steps one by one as explained in the module, and I am able to clean and make it readable. Another challenge I faced is that It took a lot of time as I am new to this. However, after classes and doing this challenge, I learned a lot and now i can create Pivot table, use filters in effective ways and do vlookup. 
+Its very difficult to understand that much data in the starting as it is my first project. But, I did it step by step, and I am able to clean and make it readable. Another challenge I faced is that It took a lot of time as I am new to this. However, doing this Project, I learned a lot and now i can create Pivot table, use filters in effective ways and do vlookup. 
 ## Results
 ### What are two conclusions you can draw about the Outcomes based on Launch Date?
 1- The most number of successful events launched in the month of May,June and July. Therefor,these months are ideal for launching a event.
